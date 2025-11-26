@@ -4,9 +4,15 @@ This repository contains the supplementary code and data of the following articl
 [UNDER REVIEW]
 
 # Summary of the uploaded data:
-Permutations_SSD_Calculation.ipynd -> Jupyter Notebook containing the script used to generate all permutations of a DNA sequence given the starting sequence, first nucleotide to mutate and last nucleotide to mutate.
-Sequence_Table.csv -> Table containg all the sequences used in the article
-Nupack_output -> contain suboptimal structures dataframe for each aptamer (nupack output)
+Permutations_SSD_Calculation.ipynd  #Jupyter Notebook containing the script used to generate all permutations of a DNA sequence given the starting sequence, first nucleotide to mutate and last nucleotide to mutate.
+Sequence_Table.csv ->               #Table containg all the sequences used in the article
+Pipline_output/                     #Folder containing intermediate results of the pipeline 
+    │── subopt                      # Nupack suboptimal structures
+    │── barriers                    # Barriers strucure selection
+    │── Nuclust_output              # Nuclust structure selection
+    │── bpRNA_input                 # bpRNA input files generated from both Barriers and Nuclust output
+    │── bpRNA_output                # bpRNA output
+    │── alignment.csv               # sequence-structure alignment table
 
 # Citations
 
