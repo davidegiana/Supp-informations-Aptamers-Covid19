@@ -1,5 +1,5 @@
 # Supplementary Code and Data for article: Sequence optimization of a DNA aptamer inhibiting COVID-19 infection guided by analysis of secondary structure distribution
-This repository contains the supplementary code and data required for the review of the article :
+This repository contains the supplementary code and data of the following article :
 
 [UNDER REVIEW]
 
