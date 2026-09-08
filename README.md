@@ -1,7 +1,7 @@
 # Supplementary Code and Data for article: Sequence optimization of a DNA aptamer inhibiting COVID-19 infection guided by analysis of secondary structure distribution
 This repository contains the supplementary code and data of the following article :
 
-* [M. I. Muniz, T. Carzaniga, G. Nava, L. Casiraghi, D. Giana, S. Rocca, A. Pedretti, J. Dellavedova, P. Ciana, T. Bellini, M. Buscaglia, (2020). A unified dynamic programming framework for the analysis of interacting nucleic acid strands: enhanced models, scalability, and speed. ACS Synth Biol, 9:2665-2678, 2020.](https://www.sciencedirect.com/science/article/pii/S200103702500546X#ecom0005)
+* [M. I. Muniz, T. Carzaniga, G. Nava, L. Casiraghi, D. Giana, S. Rocca, A. Pedretti, J. Dellavedova, P. Ciana, T. Bellini, M. Buscaglia, (2026). Sequence optimization of a DNA aptamer inhibiting COVID-19 infection guided by analysis of secondary structure distribution. Computational and Structural Biotechnology Journal, 2026.](https://www.sciencedirect.com/science/article/pii/S200103702500546X#ecom0005)
 
 # Summary of the uploaded data:
 ```
